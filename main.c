@@ -1,6 +1,12 @@
-# include <stdio.h>
+#include <stdio.h>
 
-int main{
+void imprimirBob(){
+	printf("\nBob");
+
+}
+
+
+int main(){
 	
 	return 0;
 }
